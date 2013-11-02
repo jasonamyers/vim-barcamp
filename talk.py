@@ -496,6 +496,24 @@ Cookies
 
 
 
+'''
+This file online at:
+https://github.com/jasonamyers/vim-barcamp
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 '''
 You can use gg to go to the top of a file
